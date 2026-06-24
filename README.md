@@ -61,7 +61,7 @@ The objective of this dashboard is to monitor key business metrics, identify gro
 
 ## 📷 Dashboard Preview
 
-![E-Commerce Sales Dashboard](Ecommerce_Sales_Dashboard\(1\).png)
+![E-Commerce Sales Dashboard](Ecommerce_Sales_Dashboard.png)
 
 ---
 
